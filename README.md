@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.twitter.com/alkanife"><img src="https://img.shields.io/badge/@alkanife-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-    <a href="https://www.twitter.com/alkanife"><img src="https://img.shields.io/badge/alkanife@gmail.com-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+    <a href="mailto:alkanife@gmail.com"><img src="https://img.shields.io/badge/alkanife@gmail.com-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
 
 <p>
@@ -8,19 +8,16 @@
     I'm Alkanife, a Java developer based in France.
 </p>
 
-My most active project ATM is <a href="https://github.com/alkanife/alkabot">Alkabot</a>, a highly configurable Discord bot.
-
-<br>
-
-<h2 align="center">All projects</h2>
-
-<i>All projects are sorted by their creation date.</i>
+My most active project ATM is <a href="https://github.com/alkanife/alkabot">Alkabot</a>, a self-hosted and highly configurable Discord bot.
 
 <details>
     <summary>
-        <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-dock/512/Minecraft.png" width="13"/> <b>Minecraft</b>
+        <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-dock/512/Minecraft.png" width="13"/> <b>Minecraft related projects</b>
     </summary>
-    <br/>
+    <br>
+    <i>All projects are sorted by their creation date.</i>
+    <br>
+    <br>
     <table>
         <thead align="center">
             <tr border: none;>
@@ -98,11 +95,14 @@ My most active project ATM is <a href="https://github.com/alkanife/alkabot">Alka
 </details>
 
 <details>
-  <summary>
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="13"/> <b>Discord</b>
-  </summary>
-  <br/>
-  <table>
+    <summary>
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="13"/> <b>Discord related projects</b>
+    </summary>
+    <br>
+    <i>All projects are sorted by their creation date.</i>
+    <br>
+    <br>
+    <table>
         <thead align="center">
             <tr border: none;>
                 <td><b>📚 Project</b></td>
@@ -177,8 +177,11 @@ My most active project ATM is <a href="https://github.com/alkanife/alkabot">Alka
 </details>
 
 <details>
-  <summary><b>Other</b></summary>
-  <br/>
+    <summary>📚 <b>Other projects</b></summary>
+    <br>
+    <i>All projects are sorted by their creation date.</i>
+    <br>
+    <br>
       <table>
         <thead align="center">
             <tr border: none;>
@@ -227,4 +230,15 @@ My most active project ATM is <a href="https://github.com/alkanife/alkabot">Alka
             </tr>
         </tbody>
     </table>
+</details>
+
+<details>
+    <summary>🧾 <b>Gists</b></summary>
+    <br>
+    <i>All gists are sorted by their creation date.</i>
+    <br>
+    <br>
+
+- **[homework-json-builder.html](https://gist.github.com/alkanife/b0711cfbe13e690d55405fce20990f92)**
+
 </details>
