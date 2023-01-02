@@ -12,6 +12,88 @@ My most active project ATM is <a href="https://github.com/alkanife/alkabot">Alka
 
 <details>
     <summary>
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="13"/> <b>Discord related projects</b>
+    </summary>
+    <br>
+    <i>All projects are sorted by their creation date.</i>
+    <br>
+    <br>
+    <table>
+        <thead align="center">
+            <tr border: none;>
+                <td><b>📚 Project</b></td>
+                <td><b>⚙️ Status</b></td>
+                <td><b>📃 Languages and tools</b></td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="https://github.com/alkanife/alkabot-testspotify"><b>alkabot-testspotify</b></a></td>
+                <td><img alt="ARCHIVED" src="https://img.shields.io/badge/ARCHIVED-f09e5b?style=flat-square"/></td>
+                <td>
+                    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+                    <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/>
+                    <img alt="OpenJDK-17" src="https://img.shields.io/badge/Java OpenJDK 17-000000?style=flat-square&logo=OpenJDK&logoColor=white"/>
+                </td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/alkanife/alkabot"><b>alkabot</b></a></td>
+                <td><img alt="ACTIVE" src="https://img.shields.io/badge/ACTIVE-4db859?style=flat-square"/></td>
+                <td>
+                    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+                    <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/>
+                    <img alt="OpenJDK-17" src="https://img.shields.io/badge/Java OpenJDK 17-000000?style=flat-square&logo=OpenJDK&logoColor=white"/>
+                </td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/alkanife/satania"><b>satania</b></a></td>
+                <td><img alt="ARCHIVED" src="https://img.shields.io/badge/ARCHIVED-f09e5b?style=flat-square"/></td>
+                <td>
+                    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+                    <img alt="OpenJDK-16" src="https://img.shields.io/badge/Java OpenJDK 16-000000?style=flat-square&logo=OpenJDK&logoColor=white"/>
+                    <img alt="GNU Bash" src="https://img.shields.io/badge/GNU Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/>
+                </td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/alkanife/bot-commons"><b>bot-commons</b></a></td>
+                <td><img alt="ARCHIVED" src="https://img.shields.io/badge/ARCHIVED-f09e5b?style=flat-square"/></td>
+                <td>
+                    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+                    <img alt="OpenJDK-16" src="https://img.shields.io/badge/Java OpenJDK 16-000000?style=flat-square&logo=OpenJDK&logoColor=white"/>
+                </td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/alkanife/myla"><b>myla</b></a></td>
+                <td><img alt="ACTIVE" src="https://img.shields.io/badge/ACTIVE-4db859?style=flat-square"/></td>
+                <td>
+                    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+                    <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/>
+                    <img alt="OpenJDK-17" src="https://img.shields.io/badge/Java OpenJDK 17-000000?style=flat-square&logo=OpenJDK&logoColor=white"/>
+                    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
+                </td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/enyxiaproject/amiria"><b>enyxiaproject/amiria</b></a></td>
+                <td><img alt="ARCHIVED" src="https://img.shields.io/badge/ARCHIVED-f09e5b?style=flat-square"/></td>
+                <td>
+                    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+                    <img alt="OpenJDK-16" src="https://img.shields.io/badge/Java OpenJDK 16-000000?style=flat-square&logo=OpenJDK&logoColor=white"/>
+                </td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/enyxiaproject/deprecated-amiria"><b>enyxiaproject/deprecated-amiria</b></a></td>
+                <td><img alt="ARCHIVED" src="https://img.shields.io/badge/ARCHIVED-f09e5b?style=flat-square"/></td>
+                <td>
+                    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+                    <img alt="OpenJDK-16" src="https://img.shields.io/badge/Java OpenJDK 16-000000?style=flat-square&logo=OpenJDK&logoColor=white"/>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+<details>
+    <summary>
         <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-dock/512/Minecraft.png" width="13"/> <b>Minecraft related projects</b>
     </summary>
     <br>
@@ -88,88 +170,6 @@ My most active project ATM is <a href="https://github.com/alkanife/alkabot">Alka
                     <img alt="JDK-8" src="https://img.shields.io/badge/Java JDK 8-000000?style=flat-square"/>
                     <img alt="OpenJDK-17" src="https://img.shields.io/badge/Java OpenJDK 17-000000?style=flat-square&logo=OpenJDK&logoColor=white"/>
                     <img alt="GNU Bash" src="https://img.shields.io/badge/GNU Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</details>
-
-<details>
-    <summary>
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="13"/> <b>Discord related projects</b>
-    </summary>
-    <br>
-    <i>All projects are sorted by their creation date.</i>
-    <br>
-    <br>
-    <table>
-        <thead align="center">
-            <tr border: none;>
-                <td><b>📚 Project</b></td>
-                <td><b>⚙️ Status</b></td>
-                <td><b>📃 Languages and tools</b></td>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><a href="https://github.com/alkanife/alkabot-testspotify"><b>alkabot-testspotify</b></a></td>
-                <td><img alt="ACTIVE" src="https://img.shields.io/badge/ACTIVE-4db859?style=flat-square"/></td>
-                <td>
-                    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-                    <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/>
-                    <img alt="OpenJDK-17" src="https://img.shields.io/badge/Java OpenJDK 17-000000?style=flat-square&logo=OpenJDK&logoColor=white"/>
-                </td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/alkanife/alkabot"><b>alkabot</b></a></td>
-                <td><img alt="ACTIVE" src="https://img.shields.io/badge/ACTIVE-4db859?style=flat-square"/></td>
-                <td>
-                    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-                    <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/>
-                    <img alt="OpenJDK-17" src="https://img.shields.io/badge/Java OpenJDK 17-000000?style=flat-square&logo=OpenJDK&logoColor=white"/>
-                </td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/alkanife/satania"><b>satania</b></a></td>
-                <td><img alt="ARCHIVED" src="https://img.shields.io/badge/ARCHIVED-f09e5b?style=flat-square"/></td>
-                <td>
-                    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-                    <img alt="OpenJDK-16" src="https://img.shields.io/badge/Java OpenJDK 16-000000?style=flat-square&logo=OpenJDK&logoColor=white"/>
-                    <img alt="GNU Bash" src="https://img.shields.io/badge/GNU Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/>
-                </td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/alkanife/bot-commons"><b>bot-commons</b></a></td>
-                <td><img alt="ARCHIVED" src="https://img.shields.io/badge/ARCHIVED-f09e5b?style=flat-square"/></td>
-                <td>
-                    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-                    <img alt="OpenJDK-16" src="https://img.shields.io/badge/Java OpenJDK 16-000000?style=flat-square&logo=OpenJDK&logoColor=white"/>
-                </td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/alkanife/myla"><b>myla</b></a></td>
-                <td><img alt="ACTIVE" src="https://img.shields.io/badge/ACTIVE-4db859?style=flat-square"/></td>
-                <td>
-                    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-                    <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/>
-                    <img alt="OpenJDK-17" src="https://img.shields.io/badge/Java OpenJDK 17-000000?style=flat-square&logo=OpenJDK&logoColor=white"/>
-                    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
-                </td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/enyxiaproject/amiria"><b>enyxiaproject/amiria</b></a></td>
-                <td><img alt="ARCHIVED" src="https://img.shields.io/badge/ARCHIVED-f09e5b?style=flat-square"/></td>
-                <td>
-                    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-                    <img alt="OpenJDK-16" src="https://img.shields.io/badge/Java OpenJDK 16-000000?style=flat-square&logo=OpenJDK&logoColor=white"/>
-                </td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/enyxiaproject/deprecated-amiria"><b>enyxiaproject/deprecated-amiria</b></a></td>
-                <td><img alt="ARCHIVED" src="https://img.shields.io/badge/ARCHIVED-f09e5b?style=flat-square"/></td>
-                <td>
-                    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-                    <img alt="OpenJDK-16" src="https://img.shields.io/badge/Java OpenJDK 16-000000?style=flat-square&logo=OpenJDK&logoColor=white"/>
                 </td>
             </tr>
         </tbody>
