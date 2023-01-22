@@ -69,7 +69,6 @@ My most active project ATM is <a href="https://github.com/alkanife/alkabot">Alka
                     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
                     <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/>
                     <img alt="OpenJDK-17" src="https://img.shields.io/badge/Java OpenJDK 17-000000?style=flat-square&logo=OpenJDK&logoColor=white"/>
-                    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
                 </td>
             </tr>
             <tr>
