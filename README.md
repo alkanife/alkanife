@@ -8,8 +8,6 @@
     I'm Alkanife, a Java developer based in France.
 </p>
 
-My most active project ATM is <a href="https://github.com/alkanife/alkabot">Alkabot</a>, a self-hosted and highly configurable Discord bot.
-
 <details>
     <summary>
         <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="13"/> <b>Discord related projects</b>
