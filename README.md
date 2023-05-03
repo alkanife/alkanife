@@ -116,16 +116,6 @@
                 </td>
             </tr>
             <tr>
-                <td><a href="https://github.com/alkanife/minigame-servermanager"><b>minigame-servermanager</b></a></td>
-                <td><img alt="ACTIVE" src="https://img.shields.io/badge/ACTIVE-4db859?style=flat-square"/></td>
-                <td>
-                    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-                    <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/>
-                    <img alt="OpenJDK-17" src="https://img.shields.io/badge/Java OpenJDK 17-000000?style=flat-square&logo=OpenJDK&logoColor=white"/>
-                    <img alt="GNU Bash" src="https://img.shields.io/badge/GNU Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/>
-                </td>
-            </tr>
-            <tr>
                 <td><a href="https://github.com/alkanife/mcdevtools"><b>mcdevtools</b></a></td>
                 <td><img alt="ACTIVE" src="https://img.shields.io/badge/ACTIVE-4db859?style=flat-square"/></td>
                 <td>
