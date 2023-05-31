@@ -75,7 +75,6 @@ Welcome to my GitHub profile! I'm Alkanife, a Java developer based in France. If
     </summary>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=alkanife&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alkanife&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
         <img src="https://streak-stats.demolab.com?user=alkanife&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
     </div>
 </details>
@@ -84,9 +83,6 @@ Welcome to my GitHub profile! I'm Alkanife, a Java developer based in France. If
 
 ### My recent activities
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.0.0-dev2](https://github.com/2.0.0-dev2) in [alkanife/alkabot](https://github.com/alkanife/alkabot)
-2. 🚀 Published release [1.2.1](https://github.com/1.2.1) in [alkanife/FakeMCServer](https://github.com/alkanife/FakeMCServer)
-3. 🚀 Published release [FakeMCServer 1.2](https://github.com/FakeMCServer 1.2) in [alkanife/FakeMCServer](https://github.com/alkanife/FakeMCServer)
 <!--END_SECTION:activity-->
 
 [^1]: "Hello World" in Baguette language.
