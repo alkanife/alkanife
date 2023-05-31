@@ -6,6 +6,9 @@ Welcome to my GitHub profile! I'm Alkanife, a Java developer based in France. If
 
 ### My recent activities
 <!--START_SECTION:activity-->
+1. 🚀 Published release [2.0.0-dev2](https://github.com/2.0.0-dev2) in [alkanife/alkabot](https://github.com/alkanife/alkabot)
+2. 🚀 Published release [1.2.1](https://github.com/1.2.1) in [alkanife/FakeMCServer](https://github.com/alkanife/FakeMCServer)
+3. 🚀 Published release [FakeMCServer 1.2](https://github.com/FakeMCServer 1.2) in [alkanife/FakeMCServer](https://github.com/alkanife/FakeMCServer)
 <!--END_SECTION:activity-->
 
 [^1]: "Hello World" in Baguette language.
