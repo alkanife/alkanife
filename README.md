@@ -1,6 +1,6 @@
 ## *Bonjour le monde !* 🥖 [^1]
 
-Welcome to my GitHub profile! I'm Alkanife, a Java developer based in France. If you want to see Discord bots and Minecraft projects, you are in the right place. Currently learning .NET C# at [La Manu](https://lamanu.fr/).
+Welcome to my GitHub profile! I'm Alkanife, a Java developer based in France. If you want to see Discord bots and Minecraft projects, you are in the right place. Currently studying at [La Manu](https://lamanu.fr/).
 
 <details>
     <summary>
@@ -83,9 +83,6 @@ Welcome to my GitHub profile! I'm Alkanife, a Java developer based in France. If
 
 ### My recent activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/albancardon/JardinsDuNord/pull/1) in [albancardon/JardinsDuNord](https://github.com/albancardon/JardinsDuNord)
-2. 💪 Opened PR [#1](https://github.com/albancardon/JardinsDuNord/pull/1) in [albancardon/JardinsDuNord](https://github.com/albancardon/JardinsDuNord)
-3. 🎉 Merged PR [#2](https://github.com/alkanife/CsharpQuiz/pull/2) in [alkanife/CsharpQuiz](https://github.com/alkanife/CsharpQuiz)
 <!--END_SECTION:activity-->
 
 [^1]: "Hello World" in Baguette language.
