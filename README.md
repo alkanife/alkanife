@@ -1,10 +1,10 @@
 ## *Bonjour le monde !* 🥖 [^1]
 
-Welcome to my GitHub profile! I'm Alkanife, a Java developer based in France. If you want to see Discord bots and Minecraft projects, you are in the right place. Currently studying at [La Manu](https://lamanu.fr/).
+Welcome to my personal GitHub profile! I'm Alkanife, a Java developer based in France. If you want to see Discord bots and Minecraft projects, you are in the right place. Currently studying at [La Manu](https://lamanu.fr/).
 
 <details>
     <summary>
-        ⚙️ Languages, technologies & tools <i>(click to reveal)</i>
+        ⚙️ Languages, technologies & tools I'm familiar with <i>(click to reveal)</i>
     </summary>
     <div align="left">
     <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
@@ -69,25 +69,10 @@ Welcome to my GitHub profile! I'm Alkanife, a Java developer based in France. If
     </div>
 </details>
 
-<details>
-    <summary>
-        📊 Statistics <i>(click to reveal)</i>
-    </summary>
-    <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=alkanife&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-        <img src="https://streak-stats.demolab.com?user=alkanife&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-    </div>
-</details>
-
 ---
 
 ### My recent activities
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/alkanife/discord-to-json/releases/tag/1.0.0) in [alkanife/discord-to-json](https://github.com/alkanife/discord-to-json)
-2. 🎉 Merged PR [#1](https://github.com/albancardon/JardinsDuNord/pull/1) in [albancardon/JardinsDuNord](https://github.com/albancardon/JardinsDuNord)
-3. 💪 Opened PR [#1](https://github.com/albancardon/JardinsDuNord/pull/1) in [albancardon/JardinsDuNord](https://github.com/albancardon/JardinsDuNord)
-4. 🎉 Merged PR [#2](https://github.com/alkanife/CsharpQuiz/pull/2) in [alkanife/CsharpQuiz](https://github.com/alkanife/CsharpQuiz)
-5. 💪 Opened PR [#2](https://github.com/alkanife/CsharpQuiz/pull/2) in [alkanife/CsharpQuiz](https://github.com/alkanife/CsharpQuiz)
 <!--END_SECTION:activity-->
 
 [^1]: "Hello World" in Baguette language.
