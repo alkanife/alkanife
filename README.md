@@ -73,11 +73,11 @@ Welcome to my personal GitHub profile! I'm Alkanife, a Java developer based in F
 
 ### My recent activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/alkanife/JardinsDuNord/pull/1) in [alkanife/JardinsDuNord](https://github.com/alkanife/JardinsDuNord)
-2. 💪 Opened PR [#1](https://github.com/alkanife/JardinsDuNord/pull/1) in [alkanife/JardinsDuNord](https://github.com/alkanife/JardinsDuNord)
-3. 🚀 Published release [1.0.1](https://github.com/alkanife/discord-to-json/releases/tag/1.0.1) in [alkanife/discord-to-json](https://github.com/alkanife/discord-to-json)
-4. 🚀 Published release [2.0.0-infdev](https://github.com/alkanife/alkabot/releases/tag/2.0.0-infdev) in [alkanife/alkabot](https://github.com/alkanife/alkabot)
-5. 🚀 Published release [MCDevTools 2.0.0-MC1.20](https://github.com/alkanife/mcdevtools/releases/tag/2.0.0) in [alkanife/mcdevtools](https://github.com/alkanife/mcdevtools)
+1. 🚀 Published release [2.1.0-MC1.20](https://github.com/alkanife/mcdevtools/releases/tag/2.1.0) in [alkanife/mcdevtools](https://github.com/alkanife/mcdevtools)
+2. 🎉 Merged PR [#1](https://github.com/alkanife/JardinsDuNord/pull/1) in [alkanife/JardinsDuNord](https://github.com/alkanife/JardinsDuNord)
+3. 💪 Opened PR [#1](https://github.com/alkanife/JardinsDuNord/pull/1) in [alkanife/JardinsDuNord](https://github.com/alkanife/JardinsDuNord)
+4. 🚀 Published release [1.0.1](https://github.com/alkanife/discord-to-json/releases/tag/1.0.1) in [alkanife/discord-to-json](https://github.com/alkanife/discord-to-json)
+5. 🚀 Published release [2.0.0-infdev](https://github.com/alkanife/alkabot/releases/tag/2.0.0-infdev) in [alkanife/alkabot](https://github.com/alkanife/alkabot)
 <!--END_SECTION:activity-->
 
 [^1]: "Hello World" in Baguette language.
